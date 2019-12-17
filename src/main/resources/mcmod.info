@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "nekonotereloaded",
+    "name": "Nekonote Reloaded",
+    "description": "Block 3x3 placing tool",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/hibikine/nekonote-reloaded",
+    "updateUrl": "",
+    "authorList": ["Hibikine Kage"],
+    "credits": "Hibikine Kage",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
