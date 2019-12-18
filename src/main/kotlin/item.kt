@@ -15,7 +15,7 @@ import org.apache.logging.log4j.Level
 object ItemPaw : Item() {
     init {
         this.maxStackSize = 1
-        unlocalizedName = "paw"
+        this.translationKey = "paw"
         this.setRegistryName(NekonoteReloaded.ID, "item_paw")
     }
 

@@ -55,7 +55,7 @@ repositories {
 
 dependencies {
     compile("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.41")
-    compile("net.shadowfacts:Forgelin:1.8.3")
+    compile("net.shadowfacts:Forgelin:1.8.4")
 }
 
 // processResources

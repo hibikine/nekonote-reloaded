@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "wsw",
+    "sws",
+    "www"
+  ],
+  "key": {
+    "w": {
+      "type": "forge:ore_dict",
+      "ore": "minecraft:wool"
+    },
+    "s": {
+      "item": "minecraft:slime_ball"
+    }
+  },
+  "result": {
+    "item": "nekonotereloaded:paw",
+    "count": 1
+  }
+}

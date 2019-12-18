@@ -28,7 +28,10 @@ class NekonoteReloaded {
         var logger: Logger = LogManager.getLogger()
             private set
         private val creativeTab = object : CreativeTabs("nekonoteReloaded") {
-            override fun getTabIconItem() = ItemStack(ItemPaw)
+            override fun createIcon(): ItemStack {
+                return ItemStack(ItemPaw)
+            }
+
         }
 
         @SubscribeEvent
