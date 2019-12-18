@@ -7,15 +7,15 @@
   ],
   "key": {
     "w": {
-      "type": "forge:ore_dict",
-      "ore": "minecraft:wool"
+      "item": "minecraft:wool",
+      "data": 32767
     },
     "s": {
       "item": "minecraft:slime_ball"
     }
   },
   "result": {
-    "item": "nekonotereloaded:paw",
+    "item": "nekonotereloaded:item_paw",
     "count": 1
   }
 }
