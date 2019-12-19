@@ -5,12 +5,13 @@
     "description": "Block 3x3 placing tool",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/hibikine/nekonote-reloaded",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/block-area-putting-wand",
     "updateUrl": "",
     "authorList": ["Hibikine Kage"],
     "credits": "Hibikine Kage",
-    "logoFile": "",
+    "logoFile": "/resources/main/assets/textures/items/paw.png",
     "screenshots": [],
-    "dependencies": []
+    "requireMods": ["forgelin"],
+    "dependencies": ["forgelin"]
   }
 ]
